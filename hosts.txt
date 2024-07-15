@@ -1,0 +1,5 @@
+localhost 127.0.0.1
+www.reddit.com 199.232.21.140
+www.google.com 142.250.195.4
+www.youtube.com 142.250.192.174
+www.microsoft.com 23.45.186.3
